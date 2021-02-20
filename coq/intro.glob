@@ -1,0 +1,17 @@
+DIGEST 36725f1ed008ae6fed6102efa08f695f
+Fintro
+ind 10:12 <> day
+constr 28:33 <> monday
+constr 45:51 <> tuesday
+constr 63:71 <> wednesday
+constr 83:90 <> thursday
+constr 102:107 <> friday
+constr 119:126 <> saturday
+constr 138:143 <> sunday
+R37:39 intro <> day:1 ind
+R55:57 intro <> day:1 ind
+R75:77 intro <> day:1 ind
+R94:96 intro <> day:1 ind
+R111:113 intro <> day:1 ind
+R130:132 intro <> day:1 ind
+R147:149 intro <> day:1 ind
